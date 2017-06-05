@@ -1,0 +1,6 @@
+[submodule "/Master"]
+	path = /Master
+	url = https://github.com/danielraja/Master.git
+[submodule "Slave/Master"]
+	path = Slave/Master
+	url = https://github.com/danielraja/Master.git
